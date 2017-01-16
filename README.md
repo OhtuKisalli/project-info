@@ -3,7 +3,7 @@
 ## Project links
 
 ### Production
-* [Kisallioppinen v2 beta](https://ohtukisalli.github.io/)
+* [Kisällioppiminen v2 beta](https://ohtukisalli.github.io/)
 * Course management - _coming soon!_
 
 ### Project progress
