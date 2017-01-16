@@ -21,10 +21,8 @@
 
 ### References
 
-* [kisallioppiminen.fi](http://kisallioppiminen.fi/)
-* [kisallioppiminen.fi on github](https://github.com/kisallioppiminen/kisallioppiminen.github.io)
-* [mooc.fi ohjelmointi-2017](https://2017-ohjelmointi.github.io/)
-* [mooc.fi ohjelmointi-2017 on github](https://github.com/2017-ohjelmointi/2017-ohjelmointi)
+* [kisallioppiminen.fi](http://kisallioppiminen.fi/) - [GitHub](https://github.com/kisallioppiminen/kisallioppiminen.github.io)
+* [mooc.fi ohjelmointi-2017](https://2017-ohjelmointi.github.io/) - [GitHub](https://github.com/2017-ohjelmointi/2017-ohjelmointi)
 
 ### Programming help
 
