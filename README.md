@@ -3,8 +3,8 @@
 ## Project links
 
 ### Production
-* [Kisällioppiminen v2 beta](https://ohtukisalli.github.io/) - [GitHub](https://github.com/OhtuKisalli/ohtukisalli.github.io)
-* [Course management](https://pure-inlet-98383.herokuapp.com/) - [GitHub](https://github.com/OhtuKisalli/kisallioppiminen.server)
+* Student: [Kisällioppiminen v2 beta](https://ohtukisalli.github.io/) - [GitHub](https://github.com/OhtuKisalli/ohtukisalli.github.io)
+* Teacher: [Course management](https://pure-inlet-98383.herokuapp.com/) - [GitHub](https://github.com/OhtuKisalli/kisallioppiminen.server)
 
 ### Project progress
 * [Product backlog](https://docs.google.com/spreadsheets/d/1fngPoH89ZXEGQo65SlD75FXpr3f-YjzylzEgXCqN1jQ/edit?usp=sharing)
