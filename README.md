@@ -27,6 +27,6 @@
 ### Programming help
 
 * [Wepa Ruby on rails](https://github.com/mluukkai/WebPalvelinohjelmointi2016)
+* [Ruby on Rails Tutorial by M. Hartl](https://www.railstutorial.org/book)
 * [Ohtu 2016](https://github.com/mluukkai/ohtu2016)
-
 
