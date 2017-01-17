@@ -4,7 +4,7 @@
 
 ### Production
 * [Kisällioppiminen v2 beta](https://ohtukisalli.github.io/) - [GitHub](https://github.com/OhtuKisalli/ohtukisalli.github.io)
-* Course management - _coming soon!_ - [GitHub](https://github.com/OhtuKisalli/kisallioppiminen.server)
+* [Course management](https://pure-inlet-98383.herokuapp.com/) - [GitHub](https://github.com/OhtuKisalli/kisallioppiminen.server)
 
 ### Project progress
 * [Product backlog](https://docs.google.com/spreadsheets/d/1fngPoH89ZXEGQo65SlD75FXpr3f-YjzylzEgXCqN1jQ/edit?usp=sharing)
