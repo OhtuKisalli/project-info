@@ -2,6 +2,10 @@
 
 ## Project links
 
+### Course info
+
+[Course requirements](https://docs.google.com/document/d/1Kx2-jy9LbTXXGcDL0ziO4cdXuUNj7WXNTPc8mFP31KU/edit?usp=sharing)
+
 ### Production
 * Student: [Kisällioppiminen v2 beta](https://ohtukisalli.github.io/) - [GitHub](https://github.com/OhtuKisalli/ohtukisalli.github.io)
 * Teacher: [Course management](https://pure-inlet-98383.herokuapp.com/) - [GitHub](https://github.com/OhtuKisalli/kisallioppiminen.server)
