@@ -29,6 +29,10 @@
 
 ## Developer links
 
+### Workflow
+
+* **[See workflow practices!](https://github.com/OhtuKisalli/project-info/blob/master/workflow.md)**
+
 ### References
 
 * [kisallioppiminen.fi](http://kisallioppiminen.fi/) - [GitHub](https://github.com/kisallioppiminen/kisallioppiminen.github.io)
