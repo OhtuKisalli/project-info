@@ -6,9 +6,15 @@
 
 [Course requirements](https://docs.google.com/document/d/1Kx2-jy9LbTXXGcDL0ziO4cdXuUNj7WXNTPc8mFP31KU/edit?usp=sharing)
 
-### Production
-* Student: [Kisällioppiminen v2 beta](https://ohtukisalli.github.io/) - [GitHub](https://github.com/OhtuKisalli/ohtukisalli.github.io)
-* Teacher: [Course management](https://pure-inlet-98383.herokuapp.com/) - [GitHub](https://github.com/OhtuKisalli/kisallioppiminen.server)
+### Application links
+* Frontend: 
+  * [Production]() - _coming soon!_
+  * [Staging server](https://ohtukisalli.github.io/)
+  * [GitHub](https://github.com/OhtuKisalli/ohtukisalli.github.io)
+* Backend: 
+  * [Production]() - _coming soon!_
+  * [Staging server](https://pure-inlet-98383.herokuapp.com/)
+  * [GitHub](https://github.com/OhtuKisalli/kisallioppiminen.server)
 
 ### Project progress
 * [Product backlog](https://docs.google.com/spreadsheets/d/1fngPoH89ZXEGQo65SlD75FXpr3f-YjzylzEgXCqN1jQ/edit?usp=sharing)
