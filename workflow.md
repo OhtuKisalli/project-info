@@ -7,6 +7,7 @@ _Please follow this guideline during the project_
 * Check new commits from git repos:
   * [frontend](https://github.com/OhtuKisalli/ohtukisalli.github.io/commits/master)
   * [backend](https://github.com/OhtuKisalli/kisallioppiminen.server/commits/master)
+  
 ### Start working
 * **Tag a task** from trello and drag the card to _In progress_
 * Code + git
@@ -23,10 +24,10 @@ _Please follow this guideline during the project_
   * `feature/dev/personal` -branch if unfinished
   * `master` if ready for staging server
 * **[Mark](https://docs.google.com/spreadsheets/d/180-vFs-bMMX5TbqWguWX8CcJY1d9pP2HliAgFIHWH1I/edit) your hours** _(all day)_ and what you've been working on
-* 
 
 ### Sprint end
 * _Todo_
+
 ### Sprint start
 * _Todo_
 
