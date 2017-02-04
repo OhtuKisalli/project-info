@@ -7,10 +7,11 @@ _Please follow this guideline during the project_
 * Check new commits from git repos:
   * [frontend](https://github.com/OhtuKisalli/ohtukisalli.github.io/commits/master)
   * [backend](https://github.com/OhtuKisalli/kisallioppiminen.server/commits/master)
-  
+
 ### Start working
 * **Tag a task** from trello and drag the card to _In progress_
 * Code + git
+* [branching practices etc.](https://github.com/agis-/git-style-guide)
 
 ### Task done
 * `git push origin branch` your commits
@@ -28,7 +29,7 @@ _Please follow this guideline during the project_
   * Mark time used on story to backlog
   * Mark "Done sprint" in backlog
 
-### End working 
+### End working
 * `git push` your commits
   * `feature/dev/personal` -branch if unfinished
   * `master` if ready for staging server
