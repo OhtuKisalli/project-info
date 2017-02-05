@@ -50,3 +50,8 @@
 * [Ruby on Rails Tutorial by M. Hartl](https://www.railstutorial.org/book)
 * [Ohtu 2016](https://github.com/mluukkai/ohtu2016)
 
+### Authentication help
+
+* [Omniauth](https://github.com/omniauth/omniauth)
+* [Omniauth with ominiauth-googleoauth2](https://github.com/zquestz/omniauth-google-oauth2)
+* [Devise](plataformatec/devise)
