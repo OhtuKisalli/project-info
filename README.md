@@ -55,4 +55,4 @@
 
 * [Omniauth](https://github.com/omniauth/omniauth)
 * [Omniauth with ominiauth-googleoauth2](https://github.com/zquestz/omniauth-google-oauth2)
-* [Devise](plataformatec/devise)
+* [Devise](https://github.com/plataformatec/devise)
