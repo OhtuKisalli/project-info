@@ -34,6 +34,7 @@
 ### Workflow
 
 * **[See workflow practices!](https://github.com/OhtuKisalli/project-info/blob/master/workflow.md)**
+* [Git branching](https://drive.google.com/file/d/0B1wLG72sys_SNkxEMENYNTAxam8/view?usp=sharing)
 
 ### Course info
 
