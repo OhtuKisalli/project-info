@@ -36,50 +36,9 @@ _Please follow this guideline during the project_
 * **[Mark](https://docs.google.com/spreadsheets/d/180-vFs-bMMX5TbqWguWX8CcJY1d9pP2HliAgFIHWH1I/edit) your hours** _(all day)_ and what you've been working on
   * Everybody + personal tabs!
 
-### Sprint end
-* Document and archive sprint taskboard
-* Write agenda
-* Appoint meeting roles / tasks
-  * Scrum master / President / _Puheenjohtaja_
-    * resposible for staying on schedule and agenda
-  * Secretary (notes)
-  * Demo
-  * "Backlog updater"
-* Sprint review
-  * Content and purpose of the meeting _(review + planning)_
-  * Recall _sprint goal_
-  * Which stories finished?
-  * Demo of finished stories - _Compare to acceptance criteria!_
-  * Discuss stories + write down notes/suggestions/etc
-* Move on to _Sprint planning_
+## Sprint meeting
 
-### Sprint start
-* Sprint planning
-  * Update product backlog
-    * New stories
-    * Edit old stories
-    * Re-prioritize?
-    * Estimates
-  * Set sprint goal
-  * Acceptance criteria
-  * _Let's get back about xxx on slack_
-  * Next meeting?
-* _Client exits meeting_
-* Retrospective
-  * Mad / sad / glad
-  * More of / Less of / ..
-  * Document post-its
-* Divide work
-* Document sprint statistics
-  * story statistics
-  * make a copy of trello board for documentation
-* Stories to tasks
-  * post-it taskboard
-  * update trello
-* Check working hours
-* New working hours burndown
-* Check definition of done
-* Check acceptance criterias
+[Check step for sprint planning meeting](https://github.com/OhtuKisalli/project-info/blob/master/Sprint-planning-memo.md)
 
 ## Git workflow
 * `git pull origin master`
