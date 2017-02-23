@@ -69,8 +69,17 @@ _Please follow this guideline during the project_
   * Mad / sad / glad
   * More of / Less of / ..
   * Document post-its
-* Stories to tasks
 * Divide work
+* Document sprint statistics
+  * story statistics
+  * make a copy of trello board for documentation
+* Stories to tasks
+  * post-it taskboard
+  * update trello
+* Check working hours
+* New working hours burndown
+* Check definition of done
+* Check acceptance criterias
 
 ## Git workflow
 * `git pull origin master`
