@@ -6,7 +6,7 @@
 * [After meeting](#after-meeting)
 
 ## Before meeting
-* Document and archive sprint taskboard
+* Document sprint taskboard
   * Post-it wall
     * Photograph + save to drive
   * Trello
@@ -28,6 +28,7 @@
   * Mad / sad / glad
   * More of / Less of / ..
   * Photograph post-its + save to drive
+  * Assign each team member a card to follow and improve
 
 ## Meeting with the client
 
