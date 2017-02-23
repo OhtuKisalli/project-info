@@ -38,7 +38,7 @@ _Please follow this guideline during the project_
 
 ## Sprint meeting
 
-[Check step for sprint planning meeting](https://github.com/OhtuKisalli/project-info/blob/master/Sprint-planning-memo.md)
+[Check steps for sprint planning meeting](https://github.com/OhtuKisalli/project-info/blob/master/Sprint-planning-memo.md)
 
 ## Git workflow
 * `git pull origin master`
