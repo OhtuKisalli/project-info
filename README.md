@@ -4,13 +4,19 @@
 
 ### Application links
 * Frontend: 
-  * [Production]() - _coming soon!_
-  * [Staging server](https://ohtukisalli.github.io/)
-  * [GitHub](https://github.com/OhtuKisalli/ohtukisalli.github.io)
+  * Production:
+    * ["Beta"](https://beta-kisallioppiminen.github.io/)
+    * [Code on GitHub](https://github.com/beta-kisallioppiminen/beta-kisallioppiminen.github.io/settings)
+  * Development
+    * ["dev-front"](https://ohtukisalli.github.io/)
+    * [Code on GitHub](https://github.com/OhtuKisalli/ohtukisalli.github.io)
 * Backend: 
-  * [Production]() - _coming soon!_
-  * [Staging server](https://pure-inlet-98383.herokuapp.com/)
-  * [GitHub](https://github.com/OhtuKisalli/kisallioppiminen.server)
+  * Production
+    * ["Kurssihallinta"](http://kurssihallinta.kisallioppiminen.fi/)
+    * [Code on GitHub](https://github.com/OhtuKisalli/kisallioppiminen.server/tree/release)
+  * Development
+    * ["Heroku"](https://pure-inlet-98383.herokuapp.com/)
+    * [Code on GitHub](https://github.com/OhtuKisalli/kisallioppiminen.server/tree/master)
 
 ### Documentation
 * [Google Drive](https://drive.google.com/drive/folders/0B7fEaEASCj_mRVAyd2lmMEdtZGM?usp=sharing)
